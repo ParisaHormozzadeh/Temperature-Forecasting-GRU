@@ -4,7 +4,6 @@ This repository contains the source code, data processing scripts, model archite
 
 **"Forecasting Hourly Temperature: Deterministic vs. Probabilistic Approaches — A Case Study of Mashhad, Iran"**  
 *Parisa Hormozzade, Alireza Shadman*  
-Presented at the **10th International Conference on Industrial and Systems Engineering**, 2025.
 
 ## Background
 
