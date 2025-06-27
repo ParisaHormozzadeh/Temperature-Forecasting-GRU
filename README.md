@@ -30,7 +30,7 @@ The goal is to assess not only the accuracy of the forecasts but also the models
 - **Target**: Air temperature (°C)  
 - **Features**: Temperature, humidity, wind direction, solar radiation, etc.
 
-*Note: Due to licensing restrictions, the dataset is not included in this repository. Please contact the authors for access.*
+*Note: Due to licensing restrictions, the dataset is not included in this repository.*
 
 ## Model Details
 
